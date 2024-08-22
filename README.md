@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Pfeiffer Makau.
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Pwani University
+- 🌱 I’m currently learning at Pwani University
 - 💞️ I’m looking to collaborate on roles that are in line with my area of interest.
 - 📫 I may be reached via email using this address pfeiffermacs@gmail.com
-- 😄 Pronouns:I'm amale.
+- 😄 Pronouns:I'm a male.
 - ⚡ Fun fact: I can memorize scriptures and recite them off-head.
 
 <!---
