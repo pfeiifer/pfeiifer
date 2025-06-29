@@ -1,27 +1,27 @@
-👋 Hi, I’m Pfeiffer.
-👀 Interests:
+##👋 Hi, I’m Pfeiffer.
+## 👀 Interests:
 - python
 - powershell
 - git bash
 - C++
 - Git
-📚 I’m a Computer Science undergraduate
-🦾 Collaboration:
+## 📚 I’m a Computer Science undergraduate.
+## 🦾 Collaboration:
 - Open to pair programming
 - Looking for hackathon teammates
-🔗 Let's connect:
+##🔗 Let's connect:
 - email:pfeiffermacs@gmail.com
-😄 Pronouns:He/Him.
-⚡ Fun fact:
+## 😄 Pronouns:He/Him.
+## ⚡ Fun fact:
 - I can memorize scriptures and recite them off-head.
 - I'm allergic to bad code.
 - I can recite the first 50 digits of π backward.
 
-🛠️ Tech Stack:
+##🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-F7DF1E?style=flat&logo=powershell&logoColor=black)
 
-📊 Github Stats:
+##📊 Github Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pfeiifer&show_icons=true&theme=radical)](https://github.com/pfeiifer)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfeiifer&layout=compact&theme=radical)](https://github.com/pfeiifer)
