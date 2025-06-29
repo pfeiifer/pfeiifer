@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash)
 ![Powershell](https://img.shields.io/badge/Powershell-012456?style=flat)
 ## 📚 I’m a Computer Science undergraduate.
 ## 🦾 Collaboration:
