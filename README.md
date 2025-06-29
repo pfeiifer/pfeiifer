@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=bash&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-012456?style=flat&logo=powershell&logoColor=white)
+![Powershell](https://img.shields.io/badge/Powershell-012456?style=flat)
 ## 📚 I’m a Computer Science undergraduate.
 ## 🦾 Collaboration:
 - Open to pair programming
