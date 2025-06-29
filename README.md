@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Pfeiffer.
 ## 👀 Interests:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<i class="fa-brands fa-python"></i>
 ![JavaScript](https://img.shields.io/badge/JavaScript-HexColor?style=flat&logo=javascript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-HexColor?style=flat&logo=bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-HexColor?style=flat&logo=c++&logoColor=white)
