@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Pfeiffer.
 ## 👀 Interests:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=flat&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-3776AB?style=flat&logo=bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB?style=flat&logo=c++&logoColor=white)
-![Powershell](https://img.shields.io/badge/Powershell-3776AB?style=flat&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-HexColor?style=flat&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-HexColor?style=flat&logo=bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-HexColor?style=flat&logo=c++&logoColor=white)
+![Powershell](https://img.shields.io/badge/Powershell-HexColor?style=flat&logo=powershell&logoColor=white)
 ## 📚 I’m a Computer Science undergraduate.
 ## 🦾 Collaboration:
 - Open to pair programming
