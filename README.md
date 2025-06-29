@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Pfeiffer.
 ## 👀 Interests:
-- python
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)python
 - powershell
 - git bash
 - C++
@@ -22,7 +22,7 @@
 ![Powershell](https://img.shields.io/badge/Powershell-F7DF1E?style=flat&logo=powershell&logoColor=black)
 
 ## 📊 Github Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pfeiifer&show_icons=true&theme=dark)](https://github.com/pfeiifer)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pfeiifer&show_icons=true&theme=radical)](https://github.com/pfeiifer)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfeiifer&layout=compact&theme=merko)](https://github.com/pfeiifer)
 
