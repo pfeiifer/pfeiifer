@@ -8,7 +8,6 @@
 ## 📚 I’m a Computer Science undergraduate.
 ## 🦾 Collaboration:
 - Open to pair programming
-- Looking for hackathon teammates
 ## 🔗 Let's connect:
 - email:pfeiffermacs@gmail.com
 ## 😄 Pronouns:He/Him.
